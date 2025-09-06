@@ -24,16 +24,17 @@ I chose this as my **Databases artifact** because it demonstrates:
 ---
 
 ## 🔧 Planned Enhancements (Capstone)
-During the Capstone, I will enhance this project by:
-- Expanding CRUD with **data validation and error handling**  
-- Adding advanced **aggregation queries** for analytics  
-- Optimizing **indexes** and database performance  
-- Improving the **dashboard UI** for usability and accessibility  
+- Expand CRUD with **data validation and error handling**  
+- Add advanced **aggregation queries** for analytics  
+- Optimize **indexes** and database performance  
+- Improve the **dashboard UI** for usability and accessibility  
 
 ---
 
-## 📸 Screenshots (Coming Soon)
-Screenshots of the DataTable, map, and charts will be added here.
+## 📸 Screenshots
+![Dashboard DataTable](/assets/img/dashboard-table.png)  
+![Geolocation Map](/assets/img/dashboard-map.png)  
+![Outcome Chart](/assets/img/dashboard-chart.png)  
 
 ---
 
