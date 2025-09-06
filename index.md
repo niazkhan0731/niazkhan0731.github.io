@@ -10,10 +10,10 @@ This site highlights enhanced projects demonstrating my skills in **Software Des
 - [Software Design & Engineering](/projects/software-design.html))  
   *Event Tracker App — Android application with polished UI/UX, input validation, and SQLite storage.*
 
-- [Algorithms & Data Structures](/projects/algorithms.md)  
+- [Algorithms & Data Structures](/projects/algorithms.html)  
   *Reinforcement Learning projects — Deep Q-Learning applied to CartPole and Pirate Maze environments.*
 
-- [Databases](/projects/databases.md)  
+- [Databases](/projects/databases.html)  
   *Animal Shelter CRUD + Dashboard — MongoDB, PyMongo, and Dash for interactive data visualization.*
 
 ---
