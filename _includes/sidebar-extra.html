@@ -1,0 +1,26 @@
+<!-- Custom sidebar content -->
+{% if site.logo %}
+  <img src="{{ site.logo | relative_url }}" alt="Headshot"
+       style="width:120px;height:120px;border-radius:50%;margin:0 0 12px 0;object-fit:cover;">
+{% endif %}
+
+<p><strong>{{ site.author }}</strong></p>
+{% if site.location %}<p>📍 {{ site.location }}</p>{% endif %}
+{% if site.email %}<p>📧 <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>{% endif %}
+{% if site.linkedin %}<p>🔗 <a href="{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></p>{% endif %}
+{% if site.github %}<p>💻 <a href="{{ site.github }}" target="_blank" rel="noopener">GitHub</a></p>{% endif %}
+
+<hr>
+
+<p><strong>About Me</strong><br>
+I’m a Technology Analyst focused on practical solutions, performance, and applied ML.</p>
+
+{% if site.skills %}<p><strong>Skills:</strong><br>{{ site.skills }}</p>{% endif %}
+{% if site.cloud %}<p><strong>Cloud:</strong><br>{{ site.cloud }}</p>{% endif %}
+{% if site.interests %}<p><strong>Interests:</strong><br>{{ site.interests }}</p>{% endif %}
+
+{% if site.certifications %}
+  <p><strong>Certifications:</strong><br>{{ site.certifications }}</p>
+{% endif %}
+
+{% if site.graduation %}<p><strong>{{ site.graduation }}</strong></p>{% endif %}
