@@ -23,8 +23,26 @@ This site highlights enhanced projects demonstrating my skills in **Software Des
 
 ---
 
-✨ This portfolio is built with **GitHub Pages** and the `jekyll-theme-minimal`.
-- ☁️ Exploring AWS, Azure, and cloud-native development  
+## 👨‍💻 About Me
+
+I’m a **Technology Analyst** focused on practical solutions, performance, and applied ML.
+
+**Skills:**  
+Python, Java, MongoDB, SQL, Android Studio, Dash  
+
+**Cloud:**  
+AWS, Azure  
+
+**Interests:**  
+AI/ML, Full-Stack Development  
+
+**Certifications:**  
+- CompTIA A+  
+- AWS Cloud Practitioner  
+- Google Project Management Professional  
+
+**Graduation:**  
+October 2025 — BS Computer Science, Southern New Hampshire University  
 
 ---
 
