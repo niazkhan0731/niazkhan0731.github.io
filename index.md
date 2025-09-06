@@ -25,24 +25,20 @@ This site highlights enhanced projects demonstrating my skills in **Software Des
 
 ## 👨‍💻 About Me
 
-I’m a **Technology Analyst** focused on practical solutions, performance, and applied ML.
+I currently serve as a **Technology Analyst at Interpublic Group (IPG)**, where I provide Level 2 and Level 3 support to over 2,000 corporate and agency end users, including executives. My role involves ensuring seamless IT operations, optimizing infrastructure, and driving digital transformation initiatives. During IPG’s transition under Omnicom, I played a critical role in aligning IT systems and solutions with the new organizational structure.  
 
-**Skills:**  
-Python, Java, MongoDB, SQL, Android Studio, Dash  
+Through this experience, I have gained hands-on expertise in **enterprise IT strategy, system integration, and project leadership**, positioning me for continued growth into leadership roles overseeing enterprise-wide IT strategies.  
 
-**Cloud:**  
-AWS, Azure  
+In parallel with my professional work, I am completing my **Bachelor of Science in Computer Science at Southern New Hampshire University (graduating October 2025)**. My academic focus has strengthened my skills in **software engineering, algorithmic problem-solving, and database systems**, with projects ranging from Android app development to reinforcement learning agents and full-stack data dashboards.  
 
-**Interests:**  
-AI/ML, Full-Stack Development  
+Outside of work and study, I stay curious and active — experimenting with AI tools, jogging through **Central Park**, and trading to sharpen my decision-making skills.  
 
-**Certifications:**  
-- CompTIA A+  
-- AWS Cloud Practitioner  
-- Google Project Management Professional  
-
-**Graduation:**  
-October 2025 — BS Computer Science, Southern New Hampshire University  
+### 🔑 Core Strengths
+- **Enterprise IT & Support:** Level 2/3 technical support, infrastructure optimization, digital transformation projects  
+- **Software Engineering:** Android app development (Java, SQLite), modular code design, full-stack dashboards  
+- **Cloud & Data:** AWS, Azure, MongoDB, SQL, data visualization, CRUD systems  
+- **AI & Algorithms:** Reinforcement learning, algorithm optimization, ML experimentation  
+- **Collaboration:** Clear communication, teamwork, and translating technical concepts for diverse audiences  
 
 ---
 
