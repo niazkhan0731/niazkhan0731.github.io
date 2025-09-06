@@ -22,36 +22,7 @@ This site highlights enhanced projects demonstrating my skills in **Software Des
 
 ---
 
-## 👤 Profile Snapshot
-
-![Headshot](/assets/img/headshot.jpg)
-
-**Location:** New York City, USA  
-**Email:** [niazkhan0731@gmail.com](mailto:niazkhan0731@gmail.com)  
-**LinkedIn:** [linkedin.com/in/niazkhan](https://linkedin.com/in/niazkhan0731)  
-**GitHub:** [github.com/niazkhan0731](https://github.com/niazkhan0731)  
-
-**Skills:** Python, Java, MongoDB, SQL, Android Studio, Dash  
-**Cloud Platforms:** AWS, Azure  
-**Interests:** AI/ML, Full-Stack Development  
-
-**Certifications:**  
-- CompTIA A+  
-- AWS Cloud Practitioner  
-- Google Project Management Professional  
-
-**Graduation:** October 2025 — BS Computer Science, Southern New Hampshire University  
-
----
-
-## 👨‍💻 About Me
-
-I’m a **Technology Analyst** with experience in cloud, mobile, and full-stack development.  
-
-My focus is on designing practical solutions, improving system performance, and applying machine learning in real-world contexts.  
-
-- 📍 Based in New York City  
-- 🖥️ Skilled in Python, Java, Android Studio, MongoDB, SQL, Reinforcement Learning  
+✨ This portfolio is built with **GitHub Pages** and the `jekyll-theme-minimal`.
 - ☁️ Exploring AWS, Azure, and cloud-native development  
 
 ---
