@@ -7,7 +7,7 @@ This site highlights enhanced projects demonstrating my skills in **Software Des
 
 ## 🚀 Featured Projects
 
-- [Software Design & Engineering](/projects/software-design.md)  
+- [Software Design & Engineering](/projects/software-design.html))  
   *Event Tracker App — Android application with polished UI/UX, input validation, and SQLite storage.*
 
 - [Algorithms & Data Structures](/projects/algorithms.md)  
