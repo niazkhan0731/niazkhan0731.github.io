@@ -17,21 +17,19 @@ I chose this as my **Algorithms & Data Structures artifact** because it highligh
 - **Hyperparameter tuning** (learning rate, discount factor, exploration decay)  
 - Convergence validation and performance evaluation  
 
-This project shows both algorithmic problem-solving and practical reinforcement learning skills.
-
 ---
 
 ## 🔧 Planned Enhancements (Capstone)
-During the Capstone, I will enhance this project by:
-- Optimizing the **training loop** for faster convergence  
-- Adding improved **reward normalization** and performance tracking  
-- Expanding documentation with **before/after charts** of learning curves  
-- Including more detailed **explanation of algorithmic design trade-offs**  
+- Optimize the **training loop** for faster convergence  
+- Add improved **reward normalization** and performance tracking  
+- Expand documentation with **before/after charts** of learning curves  
+- Include detailed **discussion of algorithmic design trade-offs**  
 
 ---
 
-## 📸 Screenshots (Coming Soon)
-Visualizations of training reward progress and agent success rates will be added here.
+## 📸 Screenshots
+![Training Rewards Over Time](/assets/img/rl-training.png)  
+![Agent Success in Maze](/assets/img/rl-agent.png)  
 
 ---
 
