@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hi, I’m Niaz 👋
 
 Welcome to my **Computer Science Capstone (CS-499)** ePortfolio.  
@@ -43,6 +47,7 @@ This site highlights enhanced projects demonstrating my skills in **Software Des
 ## 👨‍💻 About Me
 
 I’m a **Technology Analyst** with experience in cloud, mobile, and full-stack development.  
+
 My focus is on designing practical solutions, improving system performance, and applying machine learning in real-world contexts.  
 
 - 📍 Based in New York City  
