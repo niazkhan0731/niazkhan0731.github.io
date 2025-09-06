@@ -10,19 +10,6 @@ This site highlights enhanced projects demonstrating my skills in **Software Des
 
 ---
 
-## 🚀 Featured Projects
-
-- [Software Design & Engineering](/projects/software-design.html)  
-  *Event Tracker App — Android application with polished UI/UX, input validation, and SQLite storage.*
-
-- [Algorithms & Data Structures](/projects/algorithms.html)  
-  *Reinforcement Learning projects — Deep Q-Learning applied to CartPole and Pirate Maze environments.*
-
-- [Databases](/projects/databases.html)  
-  *Animal Shelter CRUD + Dashboard — MongoDB, PyMongo, and Dash for interactive data visualization.*
-
----
-
 ## 👨‍💻 About Me
 
 I currently serve as a Technology Analyst at Interpublic Group (IPG) where I provide support to over 2,000 corporate and agency end users, including executives. My role involves ensuring seamless IT operations, optimizing infrastructure, and driving digital transformation initiatives. During IPG’s transition under Omnicom, I played a critical role in aligning IT systems and solutions with the new organizational structure.  
@@ -43,6 +30,19 @@ Outside of work and study, I stay curious and active — experimenting with AI t
 - **Collaboration:** Clear communication, teamwork, and translating technical concepts for diverse audiences  
 
 ---
+
+## 🚀 Featured Projects
+
+- [Software Design & Engineering](/projects/software-design.html)  
+  *Event Tracker App — Android application with polished UI/UX, input validation, and SQLite storage.*
+
+- [Algorithms & Data Structures](/projects/algorithms.html)  
+  *Reinforcement Learning projects — Deep Q-Learning applied to CartPole and Pirate Maze environments.*
+
+- [Databases](/projects/databases.html)  
+  *Animal Shelter CRUD + Dashboard — MongoDB, PyMongo, and Dash for interactive data visualization.*
+
+  ---
 
 ## 📄 Resume & Links
 
