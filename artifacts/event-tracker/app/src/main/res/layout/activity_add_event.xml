@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@android:color/white">
+
+    <!-- Screen Title -->
+    <TextView
+        android:id="@+id/addEventTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="24dp"
+        android:text="Add New Event"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <!-- Event Name -->
+    <TextView
+        android:id="@+id/labelEventName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:labelFor="@+id/eventNameInput"
+        android:text="Event name"
+        android:textColor="#000000"
+        android:layout_marginBottom="4dp"/>
+
+    <EditText
+        android:id="@+id/eventNameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="e.g., Team Standup"
+        android:inputType="textCapWords"
+        android:autofillHints="username"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Event Date -->
+    <TextView
+        android:id="@+id/labelEventDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:labelFor="@+id/eventDateInput"
+        android:text="Event date (YYYY-MM-DD)"
+        android:textColor="#000000"
+        android:layout_marginBottom="4dp"/>
+
+    <EditText
+        android:id="@+id/eventDateInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="e.g., 2025-07-01"
+        android:inputType="date"
+        android:importantForAutofill="yes"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Event Time -->
+    <TextView
+        android:id="@+id/labelEventTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:labelFor="@+id/eventTimeInput"
+        android:text="Event time (HH:MM, 24-hour)"
+        android:textColor="#000000"
+        android:layout_marginBottom="4dp"/>
+
+    <EditText
+        android:id="@+id/eventTimeInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="e.g., 14:30"
+        android:inputType="time"
+        android:importantForAutofill="yes"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Save -->
+    <Button
+        android:id="@+id/saveEventButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Event"
+        android:textAllCaps="false"
+        android:contentDescription="Save event" />
+
+</LinearLayout>
