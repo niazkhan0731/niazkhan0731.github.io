@@ -4,36 +4,45 @@
 ---
 
 ## 📖 Project Overview
-This project was developed for **CS-360: Mobile Architecture and Programming**.  
-It is an Android mobile application that allows users to log in, register, and manage personal events stored in a local **SQLite** database. The app emphasizes a clean, user-centered design.
+The **Event Tracker App** was originally developed for **CS-360: Mobile Architecture and Programming** and later enhanced during **CS-499: Computer Science Capstone**.  
+It is an Android mobile application that allows users to **register, log in, and manage personal events** using a local **SQLite** database. The app focuses on a clean, accessible design with intuitive navigation and persistent data storage.
 
 ---
 
 ## 🎯 Why I Selected This Project
-I chose the Event Tracker App as my **Software Design & Engineering artifact** because it demonstrates:
-- Mobile app development with **Java** and **Android Studio**
-- UI/UX design principles applied to mobile layouts
-- CRUD operations with **SQLite**
-- User interaction flows such as login, register, and event management
+I selected this project as my **Software Design & Engineering artifact** because it demonstrates practical, real-world mobile development skills including:
+- Building native Android apps with **Java** and **Android Studio**
+- Applying **UI/UX design principles** for usability and visual hierarchy  
+- Implementing **CRUD operations** through SQLite for persistent local storage  
+- Designing user flows such as login, registration, and event management
+
+This project highlights my ability to design modular code, maintain scalability, and deliver a seamless user experience in mobile environments.
 
 ---
 
-## 🔧 Planned Enhancements (Capstone)
-- Improve **UI/UX consistency** with polished layouts and accessibility checks  
-- Add stronger **input validation** and error handling across login and event forms  
-- Refactor architecture to better separate **UI, logic, and data access**  
-- Expand **testing coverage** with manual and automated cases  
+## ⚙️ Capstone Enhancements
+During the CS-499 Capstone, I improved the Event Tracker App to demonstrate stronger software engineering and design principles:
+- **UI/UX Consistency:** Redesigned layouts using Material Design components  
+- **Input Validation:** Added error handling for login and form submission fields  
+- **Architecture Refinement:** Improved code separation between UI, logic, and database layers  
+- **Performance & Testing:** Optimized queries and validated CRUD operations for reliability
 
 ---
 
-## 📸 Screenshots
-![Login Screen](/assets/img/event-login.png)  
-![Event Grid View](/assets/img/event-grid.png)  
-![Add/Edit Event Form](/assets/img/event-form.png)  
-![Notification Prompt](/assets/img/event-notification.png)  
+## 💡 Key Learning Outcomes
+This artifact strengthened my understanding of:
+- **Modular software design** and scalable Android architecture  
+- **Database management** through persistent local storage  
+- **Human-centered UI/UX development** aligned with accessibility standards  
+- **Software lifecycle management**, from prototyping to deployment  
 
 ---
 
 ## 🔗 Resources
-- **Source Code Repo:** [insert repo link](https://github.com/niazkhan0731/SNHU-CS-Projects/tree/main/EventTracker-Mobile-App)  
-- **Return to [Home Page](/index.md)**
+- **Source Code Repository:** [GitHub – Event Tracker App](https://github.com/niazkhan0731/niazkhan0731.github.io/tree/main/artifacts/event-tracker)  
+- **Return to [Portfolio Home Page](../../index.md)**
+
+---
+
+© 2025 **Niaz Khan**  
+Southern New Hampshire University – Computer Science Capstone
