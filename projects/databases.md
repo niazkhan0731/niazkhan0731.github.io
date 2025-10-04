@@ -4,40 +4,56 @@
 ---
 
 ## 📖 Project Overview
-This project was created for **CS-340: Client/Server Development**. It provides an **interactive dashboard** for Grazioso Salvare, an organization training dogs for search-and-rescue. Built with **Python, Dash, and MongoDB**, the dashboard allows users to filter animal records, visualize adoption outcomes, and view geolocated office markers.
+This artifact was originally developed for **CS-340: Client/Server Development** and later enhanced during the **CS-499 Capstone**.  
+It provides an **interactive analytics dashboard** for *Grazioso Salvare*, an organization that identifies and trains dogs for search-and-rescue operations.  
 
-Key features:
-- Interactive **DataTable** for querying animal records  
-- **Leaflet map** with geolocated data points  
-- Outcome-based **charts** (bar/pie)  
-- Reusable **CRUD Python module (`animal_shelter.py`)** for MongoDB  
+Built using **Python, Dash, and MongoDB**, the project combines a robust back-end CRUD interface with a data visualization dashboard. Users can filter, query, and visualize animal data to make informed adoption and training decisions.
+
+Key features include:
+- Interactive **DataTable** for viewing and filtering animal records  
+- **Leaflet map** for displaying animal geolocations  
+- **Plotly charts** for visualizing breed and outcome data  
+- Reusable **CRUD Python module (`animal_shelter.py`)** for database operations  
 
 ---
 
 ## 🎯 Why I Selected This Project
-I chose this as my **Databases artifact** because it demonstrates:
-- A modular and reusable **CRUD layer**  
-- Practical **data visualization** with Dash  
-- Integration of database queries into a live dashboard  
-- Use of real-world animal shelter data for decision-making  
+I selected this as my **Databases artifact** because it demonstrates:
+- Design and implementation of a **modular database CRUD system** in Python  
+- Integration of **data retrieval and visualization** through Dash  
+- Ability to connect **MongoDB queries** to real-time analytical dashboards  
+- Practical application of data-driven insights using real shelter outcome data  
+
+This project bridges the gap between database logic and front-end visualization, showcasing how structured data can drive meaningful insights for non-technical users.
 
 ---
 
-## 🔧 Planned Enhancements (Capstone)
-- Expand CRUD with **data validation and error handling**  
-- Add advanced **aggregation queries** for analytics  
-- Optimize **indexes** and database performance  
-- Improve the **dashboard UI** for usability and accessibility  
+## ⚙️ Capstone Enhancements
+During the capstone, I enhanced the Animal Shelter Dashboard to strengthen database performance and usability:
+- **Migrated MongoDB** from a hosted environment to a secure **local instance**  
+- Added **query filters** for faster search and optimized record retrieval  
+- Improved **chart and map interactivity** within the Dash app  
+- Enhanced **code modularity** for maintainability and readability  
+- Refined **UI layout** to improve visual clarity and user flow  
 
 ---
 
-## 📸 Screenshots
-![Dashboard DataTable](/assets/img/dashboard-table.png)  
-![Geolocation Map](/assets/img/dashboard-map.png)  
-![Outcome Chart](/assets/img/dashboard-chart.png)  
+## 💡 Key Learning Outcomes
+This artifact demonstrates advanced proficiency in:
+- **Database management** and CRUD operations using PyMongo  
+- **Data visualization and interactivity** through Dash and Plotly  
+- **Full-stack integration** between data models and client interfaces  
+- **Scalable system design** using modular, reusable components  
+
+Through this project, I deepened my understanding of how to design efficient database systems and connect them with front-end interfaces that communicate complex data effectively.
 
 ---
 
 ## 🔗 Resources
-- **Source Code Repo:** [MongoDB Dashboard Project](https://github.com/niazkhan0731/SNHU-CS-Projects/tree/main/MongoDB_Dashboard_Project)  
-- **Return to [Home Page](/index.md)**
+- **Source Code Repository:** [GitHub – Animal Shelter Dashboard](https://github.com/niazkhan0731/niazkhan0731.github.io/tree/main/artifacts/animal_shelter)  
+- **Return to [Portfolio Home Page](../../index.md)**
+
+---
+
+© 2025 **Niaz Khan**  
+Southern New Hampshire University – Computer Science Capstone
