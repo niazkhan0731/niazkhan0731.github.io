@@ -4,35 +4,49 @@
 ---
 
 ## 📖 Project Overview
-This project was developed as part of my **Emerging Trends in Computer Science** course. It demonstrates the application of **reinforcement learning (RL)** and **deep Q-learning** to train an intelligent agent capable of navigating an environment, maximizing rewards, and avoiding penalties.
+This artifact was developed for **CS-370: Emerging Trends in Computer Science** and later enhanced during the **CS-499 Capstone**.  
+It demonstrates the implementation of **reinforcement learning (RL)** and **deep Q-learning** to train an intelligent agent that navigates an environment, maximizes rewards, and avoids penalties.
 
-The main artifact is a **Jupyter Notebook (`TreasureHuntGame.ipynb`)** implementing the deep Q-learning algorithm. Supporting files define the grid environment (`TreasureEnvironment.py`) and experience replay system (`GameExperience.py`).
+The main artifact is a **Jupyter Notebook (`TreasureHuntGame.ipynb`)** implementing the Deep Q-Learning algorithm. Supporting scripts include:
+- `TreasureEnvironment.py` – defines the 8×8 grid environment and reward logic  
+- `GameExperience.py` – handles experience replay memory and training data sampling  
 
 ---
 
 ## 🎯 Why I Selected This Project
-I chose this as my **Algorithms & Data Structures artifact** because it highlights:
-- Implementation of **deep Q-learning** and neural networks  
-- Use of **experience replay** and epsilon-greedy exploration  
-- **Hyperparameter tuning** (learning rate, discount factor, exploration decay)  
-- Convergence validation and performance evaluation  
+I selected this as my **Algorithms & Data Structures artifact** because it showcases my ability to:
+- Apply **neural network algorithms** to solve optimization problems  
+- Implement **deep Q-learning** with epsilon-greedy exploration  
+- Manage **state-action values**, policy updates, and convergence criteria  
+- Tune **hyperparameters** such as learning rate, discount factor, and exploration decay  
+
+This project emphasizes algorithmic reasoning, iterative model design, and real-world applications of machine learning principles.
 
 ---
 
-## 🔧 Planned Enhancements (Capstone)
-- Optimize the **training loop** for faster convergence  
-- Add improved **reward normalization** and performance tracking  
-- Expand documentation with **before/after charts** of learning curves  
-- Include detailed **discussion of algorithmic design trade-offs**  
+## ⚙️ Capstone Enhancements
+During the capstone, I enhanced the original project by:
+- **Optimizing the training loop** for faster convergence and reduced variance  
+- **Adding reward normalization** and adaptive learning rate logic  
+- **Improving performance visualization** using reward history and success-rate tracking  
+- **Expanding documentation** to explain algorithmic design trade-offs and reinforcement strategies  
 
 ---
 
-## 📸 Screenshots
-![Training Rewards Over Time](/assets/img/rl-training.png)  
-![Agent Success in Maze](/assets/img/rl-agent.png)  
+## 💡 Key Learning Outcomes
+This artifact demonstrates mastery in:
+- **Algorithm design and optimization** through applied reinforcement learning  
+- **Data structure management** for experience replay and policy memory  
+- **Neural network implementation** for dynamic state evaluation  
+- **Problem-solving under uncertainty**, balancing exploration and exploitation  
 
 ---
 
 ## 🔗 Resources
-- **Source Code Repo:** [AI Intelligent Agent](https://github.com/niazkhan0731/SNHU-CS-Projects/tree/main/AI-Intelligent-Agent)  
-- **Return to [Home Page](/index.md)**
+- **Source Code Repository:** [GitHub – Treasure Hunt RL Agent](https://github.com/niazkhan0731/niazkhan0731.github.io/tree/main/artifacts/treasure-hunt)  
+- **Return to [Portfolio Home Page](../../index.md)**
+
+---
+
+© 2025 **Niaz Khan**  
+Southern New Hampshire University – Computer Science Capstone
