@@ -49,15 +49,6 @@ Each artifact represents one of the program’s key learning outcomes — **soft
 
 ---
 
-## 📂 Repository Structure
-
-artifacts/
-├── animal_shelter/       # Database enhancement (Python + MongoDB)
-├── event-tracker/        # Software design enhancement (Android + SQLite)
-└── treasure-hunt/        # Algorithm & reinforcement learning enhancement
-
----
-
 ## 🎓 Learning Reflection
 These artifacts collectively demonstrate my growth across three major computer science domains:
 
