@@ -2,53 +2,56 @@
 layout: default
 ---
 
-# Hi, I’m Niaz 👋
+# 👋 Hi, I’m Niaz Khan  
+**Computer Science Capstone (CS-499) — Southern New Hampshire University**
 
-Welcome to my **Computer Science Capstone (CS-499)** ePortfolio.  
-
-This site highlights enhanced projects demonstrating my skills in **Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**.
+Welcome to my **ePortfolio**, where I showcase enhanced projects that demonstrate my technical growth in  
+**Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**.
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
+I currently serve as a **Technology Analyst at Interpublic Group (IPG)**, providing enterprise-level IT support and system management for over 2,000 corporate and agency users, including executives. My role involves ensuring seamless IT operations, optimizing infrastructure, and driving **digital and AI transformation initiatives**. During IPG’s transition under Omnicom, I played a key role in aligning IT systems and processes with the new organizational structure.
 
-I currently serve as a **Technology Analyst at Interpublic Group (IPG)** where I provide support to over 2,000 corporate and agency end users, including executives. My role involves ensuring seamless IT operations, optimizing infrastructure, and driving digital AI transformation initiatives. During IPG’s transition under Omnicom, I played a critical role in aligning IT systems and solutions with the new organizational structure.  
+Through this experience, I’ve developed strong expertise in **enterprise IT strategy**, **system integration**, and **project leadership**, positioning me for continued growth into technical leadership roles overseeing enterprise-wide IT initiatives.
 
-Through this experience, I have gained hands-on expertise in **enterprise IT strategy**, **system integration**, and **project leadership**, positioning me for continued growth into leadership roles overseeing enterprise-wide IT strategies.  
+In parallel, I’m completing my **Bachelor of Science in Computer Science** at **Southern New Hampshire University (graduating October 2025)**. My coursework has strengthened my skills in **software engineering**, **algorithmic problem-solving**, and **database design**, with projects spanning Android app development, reinforcement learning, and full-stack dashboards.
 
-In parallel with my professional work, I am completing my **Bachelor of Science in Computer Science** at Southern New Hampshire University (graduating October 2025). 
+Outside of work and study, I stay curious and creative — experimenting with AI tools, building personal tech projects, exploring new keto recipes, and analyzing market data to improve decision-making and strategy.
 
-My academic focus has strengthened my skills in **software engineering**, **algorithmic problem-solving**, and **database systems**, with projects ranging from Android app development to reinforcement learning agents and full-stack data dashboards.  
+---
 
-Outside of work and study, I stay curious and active — experimenting with AI tools, creating new keto recipes in the kitchen, and trading stock to sharpen my decision-making skills.  
-
-### 🔑 Core Strengths
-- **Enterprise IT & Support:** Level 2/3 technical support, infrastructure optimization, digital transformation projects  
-- **Software Engineering:** Android app development (Java, SQLite), modular code design, full-stack dashboards  
-- **Cloud & Data:** AWS, Azure, MongoDB, SQL, data visualization, CRUD systems  
-- **AI & Algorithms:** Reinforcement learning, algorithm optimization, ML experimentation  
-- **Collaboration:** Clear communication, teamwork, and translating technical concepts for diverse audiences  
+## 🔑 Core Strengths
+- **Enterprise IT & Support:** Advanced troubleshooting, infrastructure optimization, and digital transformation  
+- **Software Engineering:** Android development (Java, SQLite), modular design, RESTful APIs, full-stack dashboards  
+- **Cloud & Data:** AWS, Azure, MongoDB, SQL, data visualization, and CRUD operations  
+- **AI & Algorithms:** Reinforcement learning, optimization, neural network experimentation  
+- **Collaboration:** Clear communicator with a focus on teamwork, documentation, and client-centric solutions  
 
 ---
 
 ## 🚀 Featured Projects
 
-- [Software Design & Engineering](/projects/software-design.html)  
-  *Event Tracker App — Android application with polished UI/UX, input validation, and SQLite storage.*
+### [💻 Software Design & Engineering](/projects/software-design.html)
+*Event Tracker App — Android application featuring polished UI/UX design, structured validation, and SQLite persistence.*
 
-- [Algorithms & Data Structures](/projects/algorithms.html)  
-  *Reinforcement Learning projects — Deep Q-Learning applied to CartPole and Pirate Maze environments.*
+### [🤖 Algorithms & Data Structures](/projects/algorithms.html)
+*Reinforcement Learning Projects — Deep Q-Learning models applied to CartPole and Pirate Maze environments, showcasing neural-based decision systems.*
 
-- [Databases](/projects/databases.html)  
-  *Animal Shelter CRUD + Dashboard — MongoDB, PyMongo, and Dash for interactive data visualization.*
+### [🗄️ Databases](/projects/databases.html)
+*Animal Shelter Dashboard — Full-stack CRUD and data visualization system using MongoDB, PyMongo, and Dash for real-time analytics.*
 
-  ---
+---
 
 ## 📄 Resume & Links
+- [📑 Resume (PDF)](/assets/Niaz_Khan_Resume.pdf)  
+- [🐙 GitHub](https://github.com/niazkhan0731)  
+- [💼 LinkedIn](https://linkedin.com/in/niazkhan0731)
 
-- [Resume (PDF)](/assets/Niaz_Khan_Resume.pdf)  
-- [GitHub](https://github.com/niazkhan0731)  
-- [LinkedIn](https://linkedin.com/in/niazkhan0731)
+---
+
+© 2025 **Niaz Khan** — Southern New Hampshire University  
+**Computer Science Capstone (CS-499)**
 
 ---
 
