@@ -14,16 +14,14 @@ Welcome to my **ePortfolio**, where I showcase enhanced projects that demonstrat
 *This video provides an overview of my selected artifacts, initial code review, and planned enhancements.*  
 *(YouTube video will be embedded below once uploaded)*
 
-<div align="center">
-  <!-- Replace VIDEO_ID with your actual YouTube ID -->
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/4evsdhvCBpg"
-    title="CS-499 Code Review Video"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/4evsdhvCBpg"
+  title="CS-499 Code Review Video"
+  frameborder="0"
+  style="margin-top: 10px; margin-bottom: 25px;"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 ---
 
