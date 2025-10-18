@@ -1,90 +1,87 @@
 # 🐾 Animal Shelter CRUD and Dashboard  
-**CS-499 Capstone – Milestone Four (Database Enhancement)**  
-Author: **Niaz Khan**  
-Date: **October 2025**
+**CS-499 Capstone – Artifact 3 (Database Enhancement)**  
+**Author:** Niaz Khan  
+**Date:** October 2025
 
 ---
 
-## 📘 Project Overview
-This project is an enhanced version of my Animal Shelter CRUD and Dashboard, originally developed for CS-340: Client/Server Development and later expanded for the CS-499 Computer Science Capstone. The system connects to a MongoDB database containing animal shelter records from the Austin Animal Center dataset. It provides full CRUD (Create, Read, Update, Delete) functionality through a Python module (animal_shelter.py) and visualizes data interactively in a Dash dashboard (ProjectTwoDashboard.ipynb).
+## 📘 Project Overview  
+This project is an enhanced version of my Animal Shelter CRUD and Dashboard, originally developed during **CS-340: Client/Server Development** and expanded for the **CS-499 Computer Science Capstone**. It connects to a **MongoDB** database containing Austin Animal Center intake and outcome data.
+
+It includes:
+- A Python module (`animal_shelter.py`) with full **CRUD operations**
+- A Dash dashboard (`ProjectTwoDashboard.ipynb`) with **interactive data analysis**, charts, and maps
+
+This artifact demonstrates my ability to manage real datasets, enforce data validation, and design analytical tools that support decision-making.
 
 ---
 
-## 🧱 Technologies Used
-- Python 3.9+
-- MongoDB (local instance)
-- PyMongo
-- Dash / Plotly
-- Dash-Leaflet (for maps)
-- Pandas
-- Jupyter Notebook
+## 🎯 Why I Selected This Artifact  
+I chose this artifact because it represents my growth in **database systems and data visualization**. It shows how I evolved beyond simple query execution to building a complete database interface with secure input handling, advanced filtering, aggregation, and a user-focused dashboard—skills that align with professional roles in data engineering and full-stack development.
 
 ---
 
-## ⚙️ How to Run Locally
-1. Clone or download this repository.  
-2. Open Terminal and navigate to the folder:  
-   cd ~/Desktop/"Animal Shelter - Artifact 3"
-3. Create and activate a virtual environment:  
-   python3 -m venv venv  
-   source venv/bin/activate
-4. Install dependencies:  
-   pip install pymongo pandas dash dash-leaflet jupyter-dash plotly
-5. Start MongoDB (must be running locally on port 27017).  
-6. Launch Jupyter Notebook:  
-   jupyter notebook
-7. Open ProjectTwoDashboard.ipynb and select Run All.  
-   The app will appear inline or at http://127.0.0.1:8051/
+## 🧱 Technologies Used  
+- Python 3.9+  
+- MongoDB (Local Instance)  
+- PyMongo  
+- Dash / Plotly  
+- Dash-Leaflet  
+- Pandas  
+- Jupyter Notebook  
 
 ---
 
-## 🧩 Project Structure
-.
-├── animal_shelter.py          # CRUD class with validation, advanced filters, aggregation  
-├── ProjectTwoDashboard.ipynb  # Dash app with DataTable, chart, and map  
-├── aac_shelter_outcomes.csv   # Dataset for seeding MongoDB  
-├── Grazioso Salvare Logo.png  # Branding asset  
-└── README.md                  # Documentation (this file)
+## ⚙️ How to Run Locally  
+
+1️⃣ Navigate to the project directory  
+2️⃣ Create and activate a virtual environment  
+3️⃣ Install dependencies using `pip`  
+4️⃣ Ensure MongoDB is running locally on port `27017`  
+5️⃣ Open `ProjectTwoDashboard.ipynb` in Jupyter Notebook and **Run All**
+
+The dashboard will load inline or at:  
+`http://127.0.0.1:8051/`
 
 ---
 
-## 🚀 Enhancements (CS-499 Milestone Four)
-This milestone focused on demonstrating database management expertise and improving data access, flexibility, and performance.  
+## 🚀 Key Enhancements (CS-499 Database Focus)
 
-### In animal_shelter.py
-- Input Validation & Field Whitelisting – Ensures only valid fields are inserted or updated; prevents malformed data.  
-- Advanced Filtering (read_advanced) – Supports multi-criteria queries (outcome type, age range, sex, partial breed name).  
-- Aggregation Function (aggregate_adoption_stats) – Groups and counts animals by type or outcome for analytical charts.  
-- Index Creation – Added indexes on key fields (animal type, outcome, sex, age, breed) to improve query speed.  
-- Local MongoDB Configuration – Modified connection string to work with a local MongoDB instance rather than Apporto.  
+### 🔧 Backend Enhancements – `animal_shelter.py`
+- Added **input validation and field whitelisting** to protect database integrity  
+- Implemented **advanced filtering (`read_advanced`)** for breed, sex, age, and outcome-based querying  
+- Developed **aggregation functions** for adoption/outcome analytics  
+- Optimized database using **indexes** for performance  
+- Migrated from hosted to **secure local MongoDB setup**
 
-### In ProjectTwoDashboard.ipynb
-- Integrated new filtering and aggregation methods into the interactive dashboard.  
-- Added dropdowns, range sliders, and breed text filters for dynamic data queries.  
-- Improved table rendering and map interactivity using Dash-Leaflet.  
-- Resolved Dash version compatibility by pinning stable versions (dash==2.11.1, jupyter-dash==0.4.2).  
-
----
-
-## 🧠 Learning Reflection
-This enhancement strengthened my understanding of database design, data validation, and backend–frontend integration. Migrating from a remote MongoDB instance to a local configuration improved deployment control, while adding advanced filters and aggregations enhanced the user’s ability to analyze shelter data interactively. Version control through GitHub ensured the project’s reproducibility and professional presentation in my ePortfolio.
+### 📊 Dashboard Enhancements – `ProjectTwoDashboard.ipynb`
+- Added **interactive UI controls** (dropdowns, sliders, search filters)  
+- Integrated **live charts and metrics** using aggregation outputs  
+- Implemented **geolocation mapping** using Dash-Leaflet  
+- Standardized environment using stable Dash and compatibility fixes
 
 ---
 
-## 🖼 Evidence of Enhancement
-Below are example screenshots demonstrating the working dashboard:  
+## 🧠 Reflection and Growth  
+This enhancement deepened my experience with **real-world database challenges**, including validation, performance tuning, and integration with front-end visualization tools. Migrating the project to a local instance required solving connection, environment, and data-loading issues.
 
-Figure 1. DataTable filtered by outcome type and breed  
-Figure 2. Map and bar chart visualization of animal type distribution  
-
-(Screenshots are included in the Milestone 4 Narrative Word document.)
+Transforming static records into an interactive dashboard reinforced how backend systems can power meaningful insights—an essential capability in enterprise and analytics roles.
 
 ---
 
-## 📦 Submission Notes
-This repository corresponds to Artifact 3 (Database Enhancement) for my CS-499 Capstone ePortfolio. All project files were verified to run locally with a functional dashboard connected to a live MongoDB database.
+## 🎓 Course Outcomes Demonstrated  
+
+- **CO2 – Communication:** Built a visual dashboard that communicates data insights clearly  
+- **CO3 – Algorithmic/Data Methods:** Applied advanced filtering and aggregation logic in MongoDB  
+- **CO4 – Tools & Technologies:** Used PyMongo, Dash, and data pipelines to create a full solution  
+- **CO5 – Security Mindset:** Implemented safe query practices and controlled data validation
 
 ---
 
-© 2025 Niaz Khan  
-Southern New Hampshire University – Computer Science Capstone Project
+## 📦 Capstone Submission Notes  
+This repository represents **Artifact 3: Database Enhancement** for my CS-499 Capstone. It demonstrates my ability to build secure, scalable, and data-driven applications using real-world datasets.
+
+---
+
+© 2025 **Niaz Khan**  
+Southern New Hampshire University – Computer Science Capstone
