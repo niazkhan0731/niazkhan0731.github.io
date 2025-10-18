@@ -12,7 +12,6 @@ Welcome to my **ePortfolio**, where I showcase enhanced projects that demonstrat
 
 ## 🎥 Code Review Presentation  
 *This video provides an overview of my selected artifacts, initial code review, and planned enhancements.*  
-*(YouTube video will be embedded below once uploaded)*
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/4evsdhvCBpg"
