@@ -12,7 +12,7 @@ Welcome to my **ePortfolio**, where I showcase enhanced projects that demonstrat
 ## 🧠 About Me
 I’m a **Technology Analyst at Interpublic Group (IPG)**, providing enterprise-level IT management and support for more than 2,000 global users, including senior executives. My work centers on ensuring reliable endpoint performance, driving **digital and AI transformation**, and optimizing enterprise infrastructure during large-scale migrations such as IPG’s transition under Omnicom.
 
-I recently **graduated *cum laude* with a Bachelor of Science in Computer Science** from **Southern New Hampshire University**, where I specialized in **software engineering**, **algorithmic problem-solving**, and **database design**. My academic projects include Android app development, reinforcement learning agents, and full-stack data dashboards.
+I am **currently pursuing a Master’s in Information Technology** to further strengthen my technical and leadership capabilities. I also **graduated *cum laude* with a Bachelor of Science in Computer Science**, focusing on **software engineering**, **algorithmic problem-solving**, and **database design**. My academic and professional projects include Android app development, reinforcement learning agents, and full-stack data dashboards.
 
 These experiences have strengthened my passion for bridging IT operations with software development to deliver scalable, automated, and intelligent enterprise solutions.
 
